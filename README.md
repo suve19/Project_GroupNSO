@@ -1,4 +1,4 @@
-Rev1 OpenStack Deployment Solution
+Rev1 OpenStack Deployment Solution -ET2598 Project
 
 This repository contains Python scripts to deploy and operate the Rev1 service within an OpenStack environment. The solution consists of the following files:
 
